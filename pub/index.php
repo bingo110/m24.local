@@ -8,7 +8,7 @@
 
 use Magento\Framework\App\Bootstrap;
 
-echo "1111";exit;
+echo "222";exit;
 try {
     require __DIR__ . '/../app/bootstrap.php';
 } catch (\Exception $e) {
